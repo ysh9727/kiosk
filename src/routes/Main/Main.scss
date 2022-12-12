@@ -29,30 +29,27 @@ $main-color2-1: rgb(255, 221, 118);
   justify-content: space-between;
   width: $main-width;
   height: 100vh;
-  overflow: hidden;
+  // overflow: hidden;
   .ImageSection {
     font-size: $fontsize;
     width: 100%;
     height: 70rem;
-    overflow: hidden;
+    // overflow: hidden;
     background-color: $main-color2;
     .slide {
       position: relative;
       float: left;
-      width: $main-width;
+      width: 100%;
       height: 60rem;
+      transition: left 1s;
     }
     .s1 {
       top: 0;
       left: 0;
-      animation-fill-mode: forwards;
-      animation: slideFirst 4s ease-out;
     }
     .s2 {
       top: -60rem;
       left: $main-width;
-      animation-fill-mode: forwards;
-      animation: slideSecond 4s ease-out;
     }
   }
   .forPortfolio {

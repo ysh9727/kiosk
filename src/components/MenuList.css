@@ -1,0 +1,145 @@
+::-webkit-scrollbar {
+  width: 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  margin: 0;
+}
+
+.ModalWrap {
+  display: flex;
+  justify-content: center;
+}
+.ModalWrap .ModalBox {
+  font-size: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 120rem;
+  height: 100vh;
+  background-color: #ddd;
+  overflow-y: scroll;
+}
+.ModalWrap .ModalBox .ModalFigure {
+  width: 120rem;
+  height: 70rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ModalWrap .ModalBox .ModalFigure .ModalImg {
+  width: auto;
+  height: 33rem;
+  margin-top: 0rem;
+}
+.ModalWrap .ModalBox .ModalFigure .ModalFigcaption {
+  width: 100rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ModalWrap .ModalBox .ModalFigure .ModalFigcaption p {
+  width: 80%;
+  font-size: 2.25rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.ModalWrap .ModalBox .ModalFigure .ModalFigcaption h2 {
+  width: 100%;
+  font-size: 5.25rem;
+  text-align: center;
+}
+.ModalWrap .ModalBox .optionWrap {
+  width: 120rem;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+.ModalWrap .ModalBox .optionWrap .priceC {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.ModalWrap .ModalBox .optionWrap .priceC .priceTypeValue {
+  width: 50%;
+}
+.ModalWrap .ModalBox .optionWrap .priceR {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ModalWrap .ModalBox .optionWrap .priceR .priceTypeValue {
+  width: 25%;
+  margin: 0 1.5rem;
+}
+.ModalWrap .ModalBox .optionWrap .priceType {
+  width: 120rem;
+  margin: 2rem 0 2rem;
+}
+.ModalWrap .ModalBox .optionWrap .priceType .priceTypeValue {
+  font-size: 3.75rem;
+  height: 9rem;
+  line-height: 9rem;
+  text-align: center;
+  border-radius: 1.5rem;
+  background-color: rgb(213, 43, 30);
+  color: rgb(253, 200, 47);
+  cursor: pointer;
+}
+.ModalWrap .ModalBox .optionWrap .priceType .priceTypeValue:active {
+  background-color: rgb(214, 92, 83);
+}
+.ModalWrap .ModalBox .optionWrap .customWrap .ModalItemCustom {
+  display: flex;
+  width: 60rem;
+  margin-bottom: 3.5rem;
+}
+.ModalWrap .ModalBox .optionWrap .customWrap .ModalItemCustom p, .ModalWrap .ModalBox .optionWrap .customWrap .ModalItemCustom .ModalItemButton {
+  font-size: 3rem;
+  height: 6rem;
+  line-height: 6rem;
+  border-radius: 0.75rem;
+}
+.ModalWrap .ModalBox .optionWrap .customWrap .ModalItemCustom .ModalItem {
+  width: 25%;
+}
+.ModalWrap .ModalBox .optionWrap .customWrap .ModalItemCustom .ModalItemValue {
+  width: 20%;
+}
+.ModalWrap .ModalBox .optionWrap .customWrap .ModalItemCustom .ModalItemButton {
+  width: 15%;
+  border: 0;
+  cursor: pointer;
+}
+.ModalWrap .ModalBox .optionWrap .customWrap .ModalItemCustom .ModalItemButton:active {
+  background-color: rgb(179, 179, 179);
+}
+.ModalWrap .ModalBox .optionWrap .customWrap .ModalItemCustom .ModalItemNumber {
+  width: 10%;
+  margin: 0 1rem 0 1rem;
+  text-align: center;
+}
+.ModalWrap .ModalBox .ModalButtonWrap {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.ModalWrap .ModalBox .ModalButtonWrap .ModalConfirmButton {
+  width: 30%;
+  height: 15vh;
+  border: 0;
+  border-radius: 1.5rem;
+  background-color: rgb(253, 200, 47);
+  color: #333;
+  font-size: 4.5rem;
+  cursor: pointer;
+}
+.ModalWrap .ModalBox .ModalButtonWrap .ModalConfirmButton:active {
+  background-color: rgb(255, 221, 118);
+}
+.ModalWrap .ModalBox .sumValue {
+  font-size: 4.5rem;
+}/*# sourceMappingURL=MenuList.css.map */

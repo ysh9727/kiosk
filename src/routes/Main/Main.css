@@ -1,0 +1,119 @@
+@-webkit-keyframes attention {
+  0% {
+    display: block;
+    opacity: 1;
+  }
+  100% {
+    display: none;
+    opacity: 0;
+  }
+}
+@keyframes attention {
+  0% {
+    display: block;
+    opacity: 1;
+  }
+  100% {
+    display: none;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes slideFirst {
+  0% {
+    left: 0;
+  }
+  100% {
+    left: -120rem;
+  }
+}
+@keyframes slideFirst {
+  0% {
+    left: 0;
+  }
+  100% {
+    left: -120rem;
+  }
+}
+@-webkit-keyframes slideSecond {
+  0% {
+    left: 120rem;
+  }
+  100% {
+    left: 0;
+  }
+}
+@keyframes slideSecond {
+  0% {
+    left: 120rem;
+  }
+  100% {
+    left: 0;
+  }
+}
+.Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 120rem;
+  height: 100vh;
+  overflow: hidden;
+}
+.Main .ImageSection {
+  font-size: 1.5rem;
+  width: 100%;
+  height: 70rem;
+  overflow: hidden;
+  background-color: rgb(253, 200, 47);
+}
+.Main .ImageSection .slide {
+  position: relative;
+  float: left;
+  width: 120rem;
+  height: 60rem;
+}
+.Main .ImageSection .s1 {
+  top: 0;
+  left: 0;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  -webkit-animation: slideFirst 4s ease-out;
+          animation: slideFirst 4s ease-out;
+}
+.Main .ImageSection .s2 {
+  top: -60rem;
+  left: 120rem;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  -webkit-animation: slideSecond 4s ease-out;
+          animation: slideSecond 4s ease-out;
+}
+.Main .forPortfolio {
+  position: absolute;
+  background-color: black;
+  color: #ddd;
+  font-size: 3rem;
+  top: 45%;
+  opacity: 0;
+  -webkit-animation: attention 15s none;
+          animation: attention 15s none;
+}
+.Main .MainButtonBox {
+  display: flex;
+  width: 120rem;
+  background-color: rgb(213, 43, 30);
+}
+.Main .MainButtonBox .MainButton {
+  font-size: 6rem;
+  width: 45%;
+  height: 30vh;
+  margin: 2vh 2.5%;
+  background-color: rgb(253, 200, 47);
+  border: 0;
+  border-radius: 1rem;
+  text-align: center;
+  line-height: 30vh;
+}
+.Main .MainButtonBox .MainButton:active {
+  background-color: rgb(255, 221, 118);
+}/*# sourceMappingURL=Main.css.map */

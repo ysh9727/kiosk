@@ -1,0 +1,105 @@
+$main-width: 120rem;
+$bottom-height: 30vh;
+$fontsize: 1.5rem;
+$main-color1: rgb(213, 43, 30);
+$main-color1-1: rgb(214, 92, 83);
+$main-color2: rgb(253, 200, 47);
+$main-color2-1: rgb(255, 221, 118);
+
+@keyframes cardScan {
+  0% { left: -70%; top: 10%; }
+  30% { left: -70%; top: 35%; }
+  100% { left: 70%; top: 35%; }
+}
+
+.ModalWrap {
+  .ModalBoxPay {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: $main-width;
+    height: 100vh;
+    background-color: $main-color2;
+  }
+  .payingTextWrap {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    .payingText:first-child {
+      font-size: $fontsize*5;
+      text-decoration: underline;
+      text-decoration-color: $main-color1;
+      text-underline-offset: $fontsize;
+    }
+  }
+  .payingText {
+    font-size: $fontsize*3.5;
+  }
+  .buttonBox {
+    display: flex;
+    button:first-child {
+      margin-right: $fontsize*3;
+    }
+  }
+  .modalButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: $fontsize*16;
+    height: $fontsize*7;
+    border: 0;
+    border-radius: $fontsize;
+    font-size: $fontsize*3;
+    background-color: $main-color1;
+    color: #ddd;
+    margin-right: $fontsize*3;
+    margin-bottom: min(7rem);
+    cursor: pointer;
+  }
+  .modalButton:hover { 
+    background-color: brown;
+  }
+  .cssBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: min(7rem);
+    font-size: $fontsize*3;
+    width: 50%;
+    height: 50%;
+    // background-color: lime;
+    .cardReader {
+      position: relative;
+      width: 50rem;
+      height: 26rem;
+      top: 15%;
+      background-color: #2e3133;
+      z-index: 10;
+      border-radius: 0.5rem;
+      // 등변사다리꼴 stackoverflow
+      // https://stackoverflow.com/questions/7920754/how-to-draw-a-trapezium-trapezoid-with-css3
+      transform: perspective(2rem) rotateX(0.5deg);
+    }
+    .topCard {
+      // css 카드랑 리더기 디테일한 부분 완성하면 infinite -> 1로 수정
+      position: relative;
+      width: 30rem;
+      height: 20rem;
+      top: 10%;
+      left: -70%;
+      background-color: #5188ed;
+      border-radius: 1rem;
+      // animation: cardScan 5s ease-out infinite;
+        .cardMagnetic {
+          position: relative;
+          width: 100%;
+          height: 4rem;
+          top: 60%;
+          background-color: rgb(231, 231, 231);
+        }
+    }
+  }
+}

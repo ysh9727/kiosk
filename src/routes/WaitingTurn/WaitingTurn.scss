@@ -1,0 +1,39 @@
+$main-width: 120rem;
+$fontsize: 1.5rem;
+$button-height: 35vh;
+$main-color1: rgb(213, 43, 30);
+$main-color1-1: rgb(214, 92, 83);
+$main-color2: rgb(253, 200, 47);
+$main-color2-1: rgb(255, 221, 118);
+
+.waitingWrap {
+  width: $main-width;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: $main-color2;
+  .waitingNumber {
+    width: $main-width;
+  }
+  .payingText {
+    font-size: $fontsize*3.5;
+    width: 100%;
+    text-align: center;
+  }
+  .modalButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: $fontsize*16;
+    height: $fontsize*7;
+    border-radius: $fontsize;
+    font-size: $fontsize*3;
+    background-color: $main-color1;
+    color: #ddd;
+  }
+  .modalButton:active {
+    background-color: $main-color1-1;
+  }
+}

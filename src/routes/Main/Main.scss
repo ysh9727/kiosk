@@ -1,0 +1,86 @@
+// 메인화면
+// 메인컬러 1 rgb(213, 43, 30)
+// 메인컬러 2 rgb(253, 200, 47)
+// 폰트컬러 #333
+
+$main-width: 120rem;
+$fontsize: 1.5rem;
+$button-height: 30vh;
+$main-color1: rgb(213, 43, 30);
+$main-color2: rgb(253, 200, 47);
+$main-color2-1: rgb(255, 221, 118);
+
+@keyframes attention {
+  0% { display: block; opacity: 1; }
+  100% { display: none; opacity: 0; }
+}
+@keyframes slideFirst {
+  0% { left: 0; }
+  100% { left: -120rem }
+}
+@keyframes slideSecond {
+  0% { left: 120rem; }
+  100% { left: 0; }
+}
+.Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: $main-width;
+  height: 100vh;
+  overflow: hidden;
+  .ImageSection {
+    font-size: $fontsize;
+    width: 100%;
+    height: 70rem;
+    overflow: hidden;
+    background-color: $main-color2;
+    .slide {
+      position: relative;
+      float: left;
+      width: $main-width;
+      height: 60rem;
+    }
+    .s1 {
+      top: 0;
+      left: 0;
+      animation-fill-mode: forwards;
+      animation: slideFirst 4s ease-out;
+    }
+    .s2 {
+      top: -60rem;
+      left: $main-width;
+      animation-fill-mode: forwards;
+      animation: slideSecond 4s ease-out;
+    }
+  }
+  .forPortfolio {
+    position: absolute;
+    background-color: black;
+    color: #ddd;
+    font-size: $fontsize*2;
+    top: 45%;
+    opacity: 0;
+    animation: attention 15s none;
+  }
+  .MainButtonBox {
+    display: flex;
+    width: $main-width;
+    background-color: rgb(213, 43, 30);
+    .MainButton {
+      font-size: $fontsize * 4;
+      width: 45%;
+      height: $button-height;
+      margin: 2vh 2.5%;
+      background-color: rgb(253, 200, 47);
+      border: 0;
+      border-radius: 1rem;
+      text-align: center;
+      line-height: $button-height;
+    }
+    .MainButton:active {
+      background-color: rgb(255, 221, 118);
+    }
+  }
+}

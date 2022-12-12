@@ -1,0 +1,31 @@
+.waitingWrap {
+  width: 120rem;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(253, 200, 47);
+}
+.waitingWrap .waitingNumber {
+  width: 120rem;
+}
+.waitingWrap .payingText {
+  font-size: 5.25rem;
+  width: 100%;
+  text-align: center;
+}
+.waitingWrap .modalButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 24rem;
+  height: 10.5rem;
+  border-radius: 1.5rem;
+  font-size: 4.5rem;
+  background-color: rgb(213, 43, 30);
+  color: #ddd;
+}
+.waitingWrap .modalButton:active {
+  background-color: rgb(214, 92, 83);
+}/*# sourceMappingURL=WaitingTurn.css.map */

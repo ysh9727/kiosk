@@ -1,0 +1,201 @@
+// 메뉴화면
+
+$main-width: 120rem;
+$bottom-height: 30vh;
+$fontsize: 1.5rem;
+$main-color1: rgb(213, 43, 30);
+$main-color1-1: rgb(214, 92, 83);
+$main-color2: rgb(253, 200, 47);
+$main-color2-1: rgb(255, 221, 118);
+
+.Menu {
+  display: flex;
+  flex-wrap: wrap;
+  width: $main-width;
+  .MenuBox {
+    width: $main-width;
+    height: 70vh;
+    .MenuTab {
+      display: flex;
+      list-style-type: none;
+      .MenuTabList {
+        width: $main-width/4;
+        height: $fontsize*4;
+        line-height: $fontsize*4;
+        border-left: 1px solid $main-color1;
+        border-bottom: 2px solid $main-color1;
+        background-color: $main-color2;
+        font-size: 3rem;
+        font-weight: bold;
+        text-align: center;
+        cursor: pointer
+      }
+      .MenuTabList:first-child {
+        border-left: 0;
+      }
+      .MenuTabList:active {
+        background-color: $main-color2-1;
+      }
+    }
+  }
+  .MenuList {
+    display: flex;
+    flex-wrap: wrap;
+    width: $main-width;
+    height: 64vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    .ListBox {
+      display: flex;
+      flex-direction: column;
+      width: 20rem;
+      height: 23rem;
+      margin: 2rem;
+      cursor: pointer;
+      .ListImgWrap {
+        display: flex;
+        width: 20rem;
+        height: 20rem;
+        overflow: hidden;
+        .ListImg {
+          position: relative;
+          top: 0;
+          left: 0;
+          width: 20rem;
+          height: 20rem;
+          transition: 0.5s;
+        }
+      }
+      .ListName {
+        font-size: $fontsize;
+        line-height: $fontsize*2;
+        text-align: center;
+        height: 3rem;
+        background-color: $main-color2;
+        border-radius: 0.5rem;
+      }
+    }
+    .ListBox:hover {
+      .ListImg {
+        top: -2.5rem;
+        left: -2.5rem;
+        width: 25rem;
+        height: 25rem;
+      }
+    }
+    .ListBox:active {
+      .ListName {
+        background-color: $main-color2-1;
+      }
+    }
+  }
+  .MenuOrder{
+    width: 100%;
+    display: flex;
+    margin-top: 6px;
+    .ShoppingBasket {
+      width: 60%;
+      height: $bottom-height;
+      background-color: $main-color2;
+      overflow-y: scroll;
+      border-right: 1px solid $main-color1;
+      .basketChunk {
+        display: flex;
+        width: 100%;
+        height: $fontsize*2;
+        display: block;
+        margin-top: $fontsize*0.5;
+        border-bottom: 1px solid $main-color1;
+        span {
+          font-size: $fontsize*1.7;
+          line-height: $fontsize*1.7;
+          float: left;
+          text-align: center;
+          // height: 100%;
+        }
+        .basketName {
+          font-size: $fontsize*1.7;
+          width: 40%;
+        }
+        .basketOption {
+          font-size: $fontsize*1.7;
+          width: 12%;
+        }
+        .basketSauce, .basketVage, .basketPatty {
+          font-size: $fontsize*1.5;
+          width: 10%;
+        }
+        .basketValue {
+          font-size: $fontsize*1.7;
+          width: 16%;
+        }
+      }
+    }
+    .Bafter {
+      .basketName {
+        display: flex;
+        .basketcancel {
+          width: 10%;
+          height: 100%;
+          font-size: $fontsize*1.7;
+          line-height: $fontsize*1.7;
+          text-align: center;
+          background-color: $main-color1;
+          cursor: pointer;
+        }
+        .basketN {
+          font-size: $fontsize*1.7;
+          width: 90%;
+        }
+      }
+    }
+    .basketChunk {
+      span {
+        border-left: 1px solid $main-color1;
+      }
+      .basketName {
+        border-left: 0;
+      }
+    }
+    .TotalBasket {
+      display: flex;
+      width: 20%;
+      background-color: $main-color2;
+      justify-content: center;
+      align-items: center;
+      span {
+        font-size: $fontsize*3;
+        text-decoration: underline;
+        text-decoration-color: $main-color1;
+        text-underline-offset: $fontsize;
+      }
+    }
+    .MenuButtonBox {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 20%;
+      height: $bottom-height;
+      background-color: $main-color2;
+      a {
+        line-height: 11.5rem;
+      }
+      .MenuButton {
+        font-size: $fontsize*2;
+        width: 80%;
+        height: 11.5rem;
+        background-color: $main-color1;
+        color: #ddd;
+        border: 0;
+        border-radius: 2rem;
+        text-align: center;
+        margin: 5% 0 5% 0;
+        cursor: pointer;
+      }
+      .MenuButton:active {
+        background-color: $main-color1-1;
+      }
+    }
+  }
+}

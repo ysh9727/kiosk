@@ -1,0 +1,3185 @@
+{
+  "burger": [
+    {
+      "name": "더블 치즈버거",
+      "price": {
+        "단품": 4400,
+        "세트": 5700
+      },
+      "introduce": "고소하고 부드러운 치즈와 100% 순 쇠고기 패티가 두개 맥도날드만의 더블 치즈버거!!",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/더블 치즈버거.png",
+      "nutrition": {
+        "weight": 167,
+        "calories": 478,
+        "sugar": {
+          "vaule": 8,
+          "daily value": 8
+        },
+        "protein": {
+          "vaule": 27,
+          "daily value": 49
+        },
+        "saturated fat": {
+          "vaule": 12,
+          "daily value": 78
+        },
+        "sodium": {
+          "vaule": 896,
+          "daily value": 45
+        }
+      },
+      "allergen" : [ 
+        "우유","대두","밀","토마토","쇠고기" 
+      ]
+    },
+    {
+      "name": "치즈버거",
+      "price": {
+        "단품": 2300,
+        "세트": 4500
+      },
+      "introduce": "고소하고 부드러운 치즈와 100% 순 쇠고기 패티,\n맥도날드만의 심플한 클래식 치즈버거.",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/치즈버거.png",
+      "nutrition": {
+        "weight": 115,
+        "calories": 317,
+        "sugar": {
+          "vaule": 7,
+          "daily value": 7
+        },
+        "protein": {
+          "vaule": 16,
+          "daily value": 29
+        },
+        "saturated fat": {
+          "vaule": 6,
+          "daily value": 40
+        },
+        "sodium": {
+          "vaule": 612,
+          "daily value": 31
+        }
+      },
+      "allergen" : [ 
+        "우유","대두","밀","토마토","쇠고기" 
+      ]
+    },
+    {
+      "name": "쿼터파운더 치즈",
+      "price": {
+        "단품": 5200,
+        "세트": 6900
+      },
+      "introduce": "쿼터파운더라는 이름에서 알 수 있듯이\n두 배 이상 커진 1/4파운드(113그램) 비프와\n부드러운 치즈 두 장의 환상궁합!\n두툼한 순 쇠고기 패티와 신선한 치즈의 풍부한 맛으로\n세계적으로 사랑받고 있는 맥도날드의 대표적인 프리미엄 버거",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/쿼터파운더 치즈.png",
+      "nutrition": {
+        "weight": 198,
+        "calories": 534,
+        "sugar": {
+          "vaule": 10,
+          "daily value": 10
+        },
+        "protein": {
+          "vaule": 31,
+          "daily value": 56
+        },
+        "saturated fat": {
+          "vaule": 13,
+          "daily value": 86
+        },
+        "sodium": {
+          "vaule": 966,
+          "daily value": 48
+        }
+      },
+      "allergen" : [ 
+        "우유","대두","밀","토마토","쇠고기" 
+      ],
+      "origin": [
+        "쇠고기:호주산"
+      ]
+    },
+    {
+      "name": "더블 쿼터파운더 치즈",
+      "price": {
+        "단품": 7000,
+        "세트": 8400
+      },
+      "introduce": "좋아하는건 더 많이 즐기시라고,\n두 배 이상 커진 1/4 파운드\n비프 패티가 두 장 (226그램)! 육즙이 풍부한 고기 맛을\n그대로 살린 100% 순 쇠고기 패티 두 장과 치즈 두 장이\n입안 가득 완벽하게 조화되는 놀라운 맛",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/더블 쿼터파운더 치즈.png",
+      "nutrition": {
+        "weight": 275,
+        "calories": 769,
+        "sugar": {
+          "vaule": 10,
+          "daily value": 10
+        },
+        "protein": {
+          "vaule": 50,
+          "daily value": 91
+        },
+        "saturated fat": {
+          "vaule": 20,
+          "daily value": 136
+        },
+        "sodium": {
+          "vaule": 1150,
+          "daily value": 57
+        }
+      },
+      "allergen" : [ 
+        "우유","대두","밀","토마토","쇠고기" 
+      ],
+      "origin": [
+        "쇠고기:호주산"
+      ]
+    },
+    {
+      "name": "베이컨 토마토 디럭스",
+      "price": {
+        "단품": 5500,
+        "세트": 7000
+      },
+      "introduce": "두 장의 100% 순 쇠고기 패티에 그릴에 구워\n더욱 고소한 1장의 베이컨을 얹고,\n신선한 토마토와 양상추,\n매콤달콤한 스위트 칠리 소스, 치즈, 마요네즈를 더해\n더욱 풍부하고 신선한 맛의 프리미엄 버거.",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/베이컨 토마토 디럭스.png",
+      "nutrition": {
+        "weight": 242,
+        "calories": 545,
+        "sugar": {
+          "vaule": 14,
+          "daily value": 14
+        },
+        "protein": {
+          "vaule": 27,
+          "daily value": 48
+        },
+        "saturated fat": {
+          "vaule": 10,
+          "daily value": 67
+        },
+        "sodium": {
+          "vaule": 839,
+          "daily value": 42
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유","대두","밀", "돼지고기", "토마토", "쇠고기" 
+      ],
+      "origin": [
+        "쇠고기:호주산", "돼지고기(베이컨):외국산(아일랜드, 스페인, 캐나다)"
+      ]
+    },
+    {
+      "name": "슈비 버거",
+      "price": {
+        "단품": 5500,
+        "세트": 7000
+      },
+      "introduce": "탱~글한 통새우살에 비프 패티를 더해 푸짐하게~\n슈비 버거",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/슈비 버거.png",
+      "nutrition": {
+        "weight": 269,
+        "calories": 563,
+        "sugar": {
+          "vaule": 15,
+          "daily value": 15
+        },
+        "protein": {
+          "vaule": 21,
+          "daily value": 38
+        },
+        "saturated fat": {
+          "vaule": 5,
+          "daily value": 36
+        },
+        "sodium": {
+          "vaule": 950,
+          "daily value": 47
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유","대두","밀", "토마토", "새우", "쇠고기" , "굴"
+      ],
+      "origin": [
+        "새우패티:태국산", "쇠고기:호주산"
+      ]
+    },
+    {
+      "name": "슈슈 버거",
+      "price": {
+        "단품": 4500,
+        "세트": 5800
+      },
+      "introduce": "탱~글한 통새우살 가득~ 슈슈 버거!",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/슈슈 버거.png",
+      "nutrition": {
+        "weight": 224,
+        "calories": 432,
+        "sugar": {
+          "vaule": 12,
+          "daily value": 12
+        },
+        "protein": {
+          "vaule": 13,
+          "daily value": 24
+        },
+        "saturated fat": {
+          "vaule": 1.9,
+          "daily value": 13
+        },
+        "sodium": {
+          "vaule": 758,
+          "daily value": 38
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유","대두","밀", "토마토", "새우", "쇠고기" , "굴"
+      ],
+      "origin": [
+        "새우패티:태국산"
+      ]
+    },
+    {
+      "name": "불고기 버거",
+      "price": {
+        "단품": 2300,
+        "세트": 4300
+      },
+      "introduce": "한국인의 입맛에 딱 맞는 불고기 소스에 잘 재운 패티와\n고소한 마요네즈, 신선한 양상추의 맛있는 조합.",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/불고기 버거.png",
+      "nutrition": {
+        "weight": 167,
+        "calories": 409,
+        "sugar": {
+          "vaule": 14,
+          "daily value": 14
+        },
+        "protein": {
+          "vaule": 14,
+          "daily value": 26
+        },
+        "saturated fat": {
+          "vaule": 6,
+          "daily value": 37
+        },
+        "sodium": {
+          "vaule": 669,
+          "daily value": 33
+        }
+      },
+      "allergen" : [ 
+        "난류", "대두", "밀", "돼지고기", "조개", "굴"
+      ],
+      "origin": [
+        "돼지고기:국내산"
+      ]
+    },
+    {
+      "name": "에그 불고기 버거",
+      "price": {
+        "단품": 3200,
+        "세트": 4600
+      },
+      "introduce": "불고기 버거에 국내산 1+등급 계란을 더해\n맛의 정점을 찍다!",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/에그 불고기 버거.png",
+      "nutrition": {
+        "weight": 222,
+        "calories": 492,
+        "sugar": {
+          "vaule": 14,
+          "daily value": 14
+        },
+        "protein": {
+          "vaule": 21,
+          "daily value": 38
+        },
+        "saturated fat": {
+          "vaule": 7,
+          "daily value": 48
+        },
+        "sodium": {
+          "vaule": 743,
+          "daily value": 37
+        }
+      },
+      "allergen" : [ 
+        "난류", "대두", "밀", "돼지고기", "조개", "굴"
+      ],
+      "origin": [
+        "돼지고기:국내산"
+      ]
+    },
+    {
+      "name": "더블 불고기 버거",
+      "price": {
+        "단품": 4400,
+        "세트": 5700
+      },
+      "introduce": "진한 불고기 소스의 패티가 두 장!\n여기에 고소한 치즈와 마요네즈,\n신선한 양상추를 곁들인 깊고 풍부한 맛.",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/더블 불고기 버거.png",
+      "nutrition": {
+        "weight": 237,
+        "calories": 636,
+        "sugar": {
+          "vaule": 14,
+          "daily value": 14
+        },
+        "protein": {
+          "vaule": 26,
+          "daily value": 48
+        },
+        "saturated fat": {
+          "vaule": 13,
+          "daily value": 86
+        },
+        "sodium": {
+          "vaule": 997,
+          "daily value": 50
+        }
+      },
+      "allergen" : [ 
+        "난류", "대두", "밀", "돼지고기", "조개", "굴"
+      ],
+      "origin": [
+        "돼지고기:국내산"
+      ]
+    },
+    {
+      "name": "맥치킨",
+      "price": {
+        "단품": 3300,
+        "세트": 4500
+      },
+      "introduce": "바삭한 치킨 패티, 고소한 화이트 마요 소스와\n아삭한 양상추가 함께!\n더 업그레이드된 맛으로 돌아온 맥치킨",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/맥치킨.png",
+      "nutrition": {
+        "weight": 197,
+        "calories": 483,
+        "sugar": {
+          "vaule": 7,
+          "daily value": 7
+        },
+        "protein": {
+          "vaule": 18,
+          "daily value": 34
+        },
+        "saturated fat": {
+          "vaule": 3,
+          "daily value": 21
+        },
+        "sodium": {
+          "vaule": 999,
+          "daily value": 50
+        }
+      },
+      "allergen" : [ 
+        "난류", "대두", "밀", "닭고기"
+      ],
+      "origin": [
+        "닭고기:국내산"
+      ]
+    },
+    {
+      "name": "맥치킨 모짜렐라",
+      "price": {
+        "단품": 4800,
+        "세트": 6500
+      },
+      "introduce": "든든한 맥치킨에 골든 모짜렐라 치즈 스틱 2개와\n매콤한 아라비아따 소스를 더해\n강렬하게 재탄생한 맥치킨 모짜렐라!",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/맥치킨 모짜렐라.png",
+      "nutrition": {
+        "weight": 276,
+        "calories": 686,
+        "sugar": {
+          "vaule": 16,
+          "daily value": 16
+        },
+        "protein": {
+          "vaule": 27,
+          "daily value": 49
+        },
+        "saturated fat": {
+          "vaule": 6,
+          "daily value": 41
+        },
+        "sodium": {
+          "vaule": 1548,
+          "daily value": 77
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀", "토마토", "닭고기"
+      ],
+      "origin": [
+        "닭고기:국내산"
+      ]
+    },
+    {
+      "name": "필레 오 피쉬",
+      "price": {
+        "단품": 3500,
+        "세트": 4500
+      },
+      "introduce": "100% 알래스카 폴락 패티의 바삭함,\n맥도날드의 타르타르소스와 부드러운 스팀번이 조화로운 필레 오 피쉬",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/필레 오 피쉬.png",
+      "nutrition": {
+        "weight": 137,
+        "calories": 342,
+        "sugar": {
+          "vaule": 6,
+          "daily value": 6
+        },
+        "protein": {
+          "vaule": 14,
+          "daily value": 25
+        },
+        "saturated fat": {
+          "vaule": 3,
+          "daily value": 20
+        },
+        "sodium": {
+          "vaule": 595,
+          "daily value": 30
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀"
+      ],
+      "origin": [
+        "명태살필렛75%:태국산"
+      ]
+    },
+    {
+      "name": "더블 필레오피쉬",
+      "price": {
+        "단품": 5000,
+        "세트": 6000
+      },
+      "introduce": "100% 알래스카 폴락 패티의 바삭함,\n맥도날드의 타르타르소스와 부드러운 스팀번이\n조화로운 더블 필레 오 피쉬",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/더블 필레오피쉬.png",
+      "nutrition": {
+        "weight": 200,
+        "calories": 481,
+        "sugar": {
+          "vaule": 7,
+          "daily value": 7
+        },
+        "protein": {
+          "vaule": 23,
+          "daily value": 43
+        },
+        "saturated fat": {
+          "vaule": 5,
+          "daily value": 32
+        },
+        "sodium": {
+          "vaule": 823,
+          "daily value": 41
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀"
+      ],
+      "origin": [
+        "명태살필렛75%:태국산"
+      ]
+    },
+    {
+      "name": "1955 버거",
+      "price": {
+        "단품": 5700,
+        "세트": 7200
+      },
+      "introduce": "113g 두툼한 순 쇠고기 패티,\n특별한 1955 소스에 깊은 풍미의 그릴드 어니언까지!\n맥도날드가 처음 생긴 1955년의 맛을 담은\n영원한 오리지널 1955 버거",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/1955 버거.png",
+      "nutrition": {
+        "weight": 258,
+        "calories": 537,
+        "sugar": {
+          "vaule": 13,
+          "daily value": 13
+        },
+        "protein": {
+          "vaule": 27,
+          "daily value": 49
+        },
+        "saturated fat": {
+          "vaule": 9,
+          "daily value": 63
+        },
+        "sodium": {
+          "vaule": 809,
+          "daily value": 40
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀", "돼지고기", "토마토", "쇠고기"
+      ],
+      "origin": [
+        "쇠고기:호주산", "돼지고기(베이컨):외국산(아일랜드, 스페인, 캐나다)"
+      ]
+    },
+    {
+      "name": "맥스파이시 상하이 버거",
+      "price": {
+        "단품": 4800,
+        "세트": 5900
+      },
+      "introduce": "매콤한 시즈닝을 입힌 100% 닭가슴 통살 위에\n아삭아삭한 양상추와 신선한 토마토~\n겉은 바삭, 속은 부드러운 치킨 패티의 매콤함으로\n입맛도 기분도 화끈하게!",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/맥스파이시 상하이 버거.png",
+      "nutrition": {
+        "weight": 235,
+        "calories": 494,
+        "sugar": {
+          "vaule": 8,
+          "daily value": 8
+        },
+        "protein": {
+          "vaule": 21,
+          "daily value": 37
+        },
+        "saturated fat": {
+          "vaule": 3,
+          "daily value": 18
+        },
+        "sodium": {
+          "vaule": 891,
+          "daily value": 45
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀", "토마토", "닭고기"
+      ],
+      "origin": [
+        "닭고기:국내산"
+      ]
+    },
+    {
+      "name": "빅맥",
+      "price": {
+        "단품": 4600,
+        "세트": 5900
+      },
+      "introduce": "100% 순 쇠고기 패티 두 장에 빅맥®만의 특별한 소스.\n입안에서 살살 녹는 치즈와 신선한 양상추, 양파, 그리고 피클까지.\n50년 넘게 전 세계인의 입맛을 사로 잡은 버거의 대명사.",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/빅맥.png",
+      "nutrition": {
+        "weight": 223,
+        "calories": 583,
+        "sugar": {
+          "vaule": 7,
+          "daily value": 7
+        },
+        "protein": {
+          "vaule": 27,
+          "daily value": 48
+        },
+        "saturated fat": {
+          "vaule": 11,
+          "daily value": 71
+        },
+        "sodium": {
+          "vaule": 902,
+          "daily value": 45
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀", "쇠고기"
+      ],
+      "origin": [
+        "쇠고기:호주산"
+      ]
+    },
+    {
+      "name": "맥크리스피 클래식 버거",
+      "price": {
+        "단품": 5600,
+        "세트": 6800
+      },
+      "introduce": "100% 통닭다리살 겉바속촉 케이준 치킨 패티!\n치킨 버거 본연의 맛에 충실한 클래식 버거",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/맥크리스피 클래식 버거.png",
+      "nutrition": {
+        "weight": 206,
+        "calories": 584,
+        "sugar": {
+          "vaule": 13,
+          "daily value": 13
+        },
+        "protein": {
+          "vaule": 23,
+          "daily value": 41
+        },
+        "saturated fat": {
+          "vaule": 5,
+          "daily value": 31
+        },
+        "sodium": {
+          "vaule": 1171,
+          "daily value": 59
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀", "토마토", "닭고기", "쇠고기"
+      ],
+      "origin": [
+        "닭고기:브라질산"
+      ]
+    },
+    {
+      "name": "맥크리스피 디럭스 버거",
+      "price": {
+        "단품": 6400,
+        "세트": 7600
+      },
+      "introduce": "100% 통닭다리살 겉바속촉 케이준 치킨 패티,\n촉촉한 포테이토 브리오쉬 번, 스페셜 스모키 소스가\n선사하는 놀랍도록 새로운 맛의 치킨 버거!",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/맥크리스피 디럭스 버거.png",
+      "nutrition": {
+        "weight": 266,
+        "calories": 594,
+        "sugar": {
+          "vaule": 14,
+          "daily value": 14
+        },
+        "protein": {
+          "vaule": 23,
+          "daily value": 41
+        },
+        "saturated fat": {
+          "vaule": 5,
+          "daily value": 31
+        },
+        "sodium": {
+          "vaule": 1172,
+          "daily value": 59
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀", "토마토", "닭고기", "쇠고기"
+      ],
+      "origin": [
+        "닭고기:브라질산"
+      ]
+    },
+    {
+      "name": "보성녹돈 버거",
+      "price": {
+        "단품": 6300,
+        "세트": 7600
+      },
+      "introduce": "부드럽고 육즙 가득한 113g 보성녹돈 패티, 매콤하고 진한 스파이시 치즈 소스,\n국내산 양배추와 적양파로 완벽해진 맛!\n* 보성녹돈은 보성 산 녹차로 만든 사료를 먹인 돼지고기로 만든 돈육입니다.",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/보성녹돈 버거.png",
+      "nutrition": {
+        "weight": 293,
+        "calories": 634,
+        "sugar": {
+          "vaule": 17,
+          "daily value": 17
+        },
+        "protein": {
+          "vaule": 26,
+          "daily value": 48
+        },
+        "saturated fat": {
+          "vaule": 12,
+          "daily value": 78
+        },
+        "sodium": {
+          "vaule": 1129,
+          "daily value": 56
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀", "돼지고기", "토마토"
+      ],
+      "origin": [
+        "돼지고기:국내산", "돼지고기(베이컨):외국산(아일랜드, 스페인, 캐나다)"
+      ]
+    },
+    {
+      "name": "창녕갈릭 버거",
+      "price": {
+        "단품": 6300,
+        "세트": 7600
+      },
+      "introduce": "100% 국산 창녕 햇마늘이 듬뿍 들어간 마늘 토핑과\n마늘 아이올리 소스, 그리고 순 쇠고기 패티 2장의 완벽한 맛!",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/창녕 갈릭 버거.png",
+      "nutrition": {
+        "weight": 270,
+        "calories": 674,
+        "sugar": {
+          "vaule": 19,
+          "daily value": 19
+        },
+        "protein": {
+          "vaule": 27,
+          "daily value": 49
+        },
+        "saturated fat": {
+          "vaule": 12,
+          "daily value": 78
+        },
+        "sodium": {
+          "vaule": 949,
+          "daily value": 47
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀", "토마토", "쇠고기", "굴"
+      ],
+      "origin": [
+        "쇠고기:호주산"
+      ]
+    },
+    {
+      "name": "88 서울 비-프 버거",
+      "price": {
+        "단품": 6300,
+        "세트": 7600
+      },
+      "introduce": "부드럽고 고소한 에그 양배추 샐러드에\n쫄깃 바삭 크로켓 번, 육즙 가득 쇠고기 패티로 풍미 가득한\n88년 추억의 맛을 담은 버거!",
+      "time": "AM10:30~AM04:00", 
+      "image": "./images/menu/burger/88 서울 비-프 버거.png",
+      "nutrition": {
+        "weight": 224,
+        "calories": 521,
+        "sugar": {
+          "vaule": 11,
+          "daily value": 11
+        },
+        "protein": {
+          "vaule": 21,
+          "daily value": 38
+        },
+        "saturated fat": {
+          "vaule": 7,
+          "daily value": 46
+        },
+        "sodium": {
+          "vaule": 1214,
+          "daily value": 61
+        }
+      },
+      "allergen" : [ 
+        "난류", "대두", "밀", "토마토", "쇠고기", "조개", "굴"
+      ],
+      "origin": [
+        "쇠고기:호주산"
+      ]
+    }
+  ],
+  "side": [
+    {
+      "name": "스트링 치즈",
+      "price": {
+        "단품": 1600
+      },
+      "introduce": "색소와 합성보존료가 들어가지 않아 건강하고\n간편하게 먹기 좋은 스트링 타입의 치즈!",
+      "image": "./images/menu/side/스트링 치즈.png",
+      "nutrition": {
+        "weight": 18,
+        "calories": 50,
+        "sugar": {
+          "vaule": 0,
+          "daily value": 0
+        },
+        "protein": {
+          "vaule": 4,
+          "daily value": 8
+        },
+        "saturated fat": {
+          "vaule": 2.1,
+          "daily value": 14
+        },
+        "sodium": {
+          "vaule": 80,
+          "daily value": 4
+        }
+      },
+      "allergen" : [ 
+        "우유"
+      ]
+    },
+    {
+      "name": "해쉬 브라운",
+      "price": {
+        "단품": 1000
+      },
+      "introduce": "씹으면 바삭바삭,\n속은 부드러운 감자의 고소함.",
+      "time": "AM04:00~AM10:30",
+      "image": "./images/menu/side/해쉬 브라운.png",
+      "nutrition": {
+        "weight": 54,
+        "calories": 159,
+        "sugar": {
+          "vaule": 0,
+          "daily value": 0
+        },
+        "protein": {
+          "vaule": 2,
+          "daily value": 3
+        },
+        "saturated fat": {
+          "vaule": 1,
+          "daily value": 7
+        },
+        "sodium": {
+          "vaule": 457,
+          "daily value": 23
+        }
+      },
+      "allergen" : [ 
+        "대두"
+      ]
+    },
+    {
+      "name": "맥스파이시 치킨 텐더",
+      "price": {
+        "2개": 2500,
+        "4개": 4900
+      },
+      "introduce": "부드러운 100% 닭안심살을 스파이시 시즈닝으로\n매콤 바삭하게 튀겨낸 치킨 텐더!\n2가지 소스로 입맛에 맞게 즐겨보세요!",
+      "time": "AM10:30~AM04:00",
+      "image": "./images/menu/side/맥스파이시 치킨 텐더.png",
+      "nutrition": {
+        "2개": {
+          "weight": 75,
+          "calories": 176,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 13,
+            "daily value": 24
+          },
+          "saturated fat": {
+            "vaule": 1,
+            "daily value": 7
+          },
+          "sodium": {
+            "vaule": 633,
+            "daily value": 32
+          }
+        },
+        "4개": {
+          "weight": 151,
+          "calories": 352,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 27,
+            "daily value": 49
+          },
+          "saturated fat": {
+            "vaule": 2.1,
+            "daily value": 14
+          },
+          "sodium": {
+            "vaule": 1267,
+            "daily value": 63
+          }
+        }
+      },
+      "allergen" : [ 
+        "대두", "밀", "닭고기"
+      ]
+    },
+    {
+      "name": "맥너겟",
+      "price": {
+        "4개": 2000,
+        "6개": 3000,
+        "10개": 4500
+      },
+      "introduce": "바삭하고 촉촉한 치킨이 한 입에 쏙!\n다양한 소스로 입맛에 맞게 즐겨보세요!",
+      "time": "AM10:30~AM04:00",
+      "image": "./images/menu/side/맥너겟.png",
+      "nutrition": {
+        "4개": {
+          "weight": 64,
+          "calories": 171,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 11,
+            "daily value": 19
+          },
+          "saturated fat": {
+            "vaule": 1.6,
+            "daily value": 11
+          },
+          "sodium": {
+            "vaule": 366,
+            "daily value": 18
+          }
+        },
+        "6개": {
+          "weight": 95,
+          "calories": 256,
+          "sugar": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "protein": {
+            "vaule": 16,
+            "daily value": 29
+          },
+          "saturated fat": {
+            "vaule": 2,
+            "daily value": 16
+          },
+          "sodium": {
+            "vaule": 549,
+            "daily value": 27
+          }
+        },
+        "10개": {
+          "weight": 159,
+          "calories": 427,
+          "sugar": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "protein": {
+            "vaule": 27,
+            "daily value": 48
+          },
+          "saturated fat": {
+            "vaule": 4,
+            "daily value": 27
+          },
+          "sodium": {
+            "vaule": 916,
+            "daily value": 46
+          }
+        }
+
+      },
+      "allergen" : [ 
+        "대두", "밀", "닭고기"
+      ]
+    },
+    {
+      "name": "후렌치 후라이",
+      "price": {
+        "스몰": 1000,
+        "미디움": 1700,
+        "라지": 2300
+      },
+      "introduce": "통으로 썰어낸 감자를 맥도날드만의 노하우로 튀겨낸 남다른 맛과 바삭함!\n맥도날드의 역사가 담긴 월드 클래스 후렌치 후라이",
+      "time": "AM10:30~AM04:00",
+      "image": "./images/menu/side/후렌치 후라이.png",
+      "nutrition": {
+        "스몰": {
+          "weight": 74,
+          "calories": 216,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 3,
+            "daily value": 6
+          },
+          "saturated fat": {
+            "vaule": 1,
+            "daily value": 7
+          },
+          "sodium": {
+            "vaule": 89,
+            "daily value": 4
+          }
+        },
+        "미디움": {
+          "weight": 114,
+          "calories": 232,
+          "sugar": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "protein": {
+            "vaule": 5,
+            "daily value": 9
+          },
+          "saturated fat": {
+            "vaule": 1.6,
+            "daily value": 11
+          },
+          "sodium": {
+            "vaule": 137,
+            "daily value": 7
+          }
+        },
+        "라지": {
+          "weight": 140,
+          "calories": 408,
+          "sugar": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "protein": {
+            "vaule": 6,
+            "daily value": 12
+          },
+          "saturated fat": {
+            "vaule": 1.9,
+            "daily value": 13
+          },
+          "sodium": {
+            "vaule": 168,
+            "daily value": 8
+          }
+        }
+
+      },
+      "allergen" : [ 
+        "대두"
+      ]
+    },
+    {
+      "name": "골든 모짜렐라 치즈스틱",
+      "price": {
+        "2개": 2200,
+        "4개": 4000
+      },
+      "introduce": "속이 꽉 찬 황금빛 바삭함!\n자연 모짜렐라 치즈로 빈틈 없이 고소한\n맥도날드 치즈스틱을\n2조각과 4조각으로 다양하게 즐겨보세요!",
+      "image": "./images/menu/side/골든 모짜렐라 치즈스틱.png",
+      "nutrition": {
+        "2개": {
+          "weight": 47,
+          "calories": 159,
+          "sugar": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "protein": {
+            "vaule": 7,
+            "daily value": 13
+          },
+          "saturated fat": {
+            "vaule": 3.5,
+            "daily value": 23
+          },
+          "sodium": {
+            "vaule": 254,
+            "daily value": 13
+          }
+        },
+        "4개": {
+          "weight": 94,
+          "calories": 2332,
+          "sugar": {
+            "vaule": 2,
+            "daily value": 2
+          },
+          "protein": {
+            "vaule": 14,
+            "daily value": 26
+          },
+          "saturated fat": {
+            "vaule": 6.9,
+            "daily value": 46
+          },
+          "sodium": {
+            "vaule": 508,
+            "daily value": 25
+          }
+        }
+      },
+      "allergen" : [ 
+        "우유", "대두", "밀"
+      ]
+    },
+    {
+      "name": "상하이 치킨 스낵랩",
+      "price": {
+        "단품": 2200
+      },
+      "introduce": "속이 꽉 찬 황금빛 바삭함!\n자연 모짜렐라 치즈로 빈틈 없이 고소한\n맥도날드 치즈스틱을\n2조각과 4조각으로 다양하게 즐겨보세요!",
+      "image": "./images/menu/side/상하이 치킨 스낵랩.png",
+      "nutrition": {
+          "weight": 107,
+          "calories": 276,
+          "sugar": {
+            "vaule": 2,
+            "daily value": 2
+          },
+          "protein": {
+            "vaule": 10,
+            "daily value": 18
+          },
+          "saturated fat": {
+            "vaule": 3.1,
+            "daily value": 20
+          },
+          "sodium": {
+            "vaule": 693,
+            "daily value": 35
+          }
+      },
+      "allergen" : [ 
+        "난류", "대두", "밀", "돼지고기", "닭고기"
+      ],
+      "origin": [
+        "닭고기:국내산", "돼지고기(베이컨):외국산(아일랜드, 스페인, 캐나다)"
+      ]
+    },
+    {
+      "name": "코울슬로",
+      "price": {
+        "단품": 1900
+      },
+      "introduce": "양배추, 당근, 양파가 상큼하고 크리미한 마요 드레싱과\n어우러져 아삭하게 씹히는 샐러드",
+      "image": "./images/menu/side/코울슬로.png",
+      "nutrition": {
+          "weight": 100,
+          "calories": 179,
+          "sugar": {
+            "vaule": 18,
+            "daily value": 18
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 2
+          },
+          "saturated fat": {
+            "vaule": 1,
+            "daily value": 10
+          },
+          "sodium": {
+            "vaule": 307,
+            "daily value": 15
+          }
+      },
+      "allergen" : [ 
+        "난류", "대두", "조개", "굴"
+      ]
+    },
+    {
+      "name": "맥윙",
+      "price": {
+        "2개": 2900,
+        "4개": 5500,
+        "8개": 10900
+      },
+      "introduce": "겉은 바삭! 속은 쫄~깃한 치킨 윙!",
+      "time": "AM10:30~AM04:00",
+      "image": "./images/menu/side/맥윙.png",
+      "nutrition": {
+        "2개": {
+          "weight": 84,
+          "calories": 245,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 15,
+            "daily value": 27
+          },
+          "saturated fat": {
+            "vaule": 3,
+            "daily value": 20
+          },
+          "sodium": {
+            "vaule": 678,
+            "daily value": 34
+          }
+        },
+        "4개": {
+          "weight": 168,
+          "calories": 489,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 29,
+            "daily value": 53
+          },
+          "saturated fat": {
+            "vaule": 6,
+            "daily value": 40
+          },
+          "sodium": {
+            "vaule": 1356,
+            "daily value": 68
+          }
+        },
+        "8개": {
+          "weight": 336,
+          "calories": 978,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 59,
+            "daily value": 107
+          },
+          "saturated fat": {
+            "vaule": 12,
+            "daily value": 80
+          },
+          "sodium": {
+            "vaule": 2711,
+            "daily value": 136
+          }
+        }
+
+      },
+      "allergen" : [ 
+        "난류", "대두", "밀", "닭고기"
+      ]
+    },
+    {
+      "name": "맥윙 콤보",
+      "price": {
+        "2개": 4400,
+        "4개": 7000
+      },
+      "introduce": "겉은 바삭! 속은 쫄~깃한 치킨 윙!\n그리고 시원한 탄산음료!",
+      "time": "AM10:30~AM04:00",
+      "image": "./images/menu/side/맥윙 콤보.png",
+      "nutrition": {
+        "2개": {
+          "calories": "245~393"
+        },
+        "4개": {
+          "calories": "489~638"
+        }
+      },
+      "allergen" : [ 
+        "난류", "대두", "밀", "닭고기"
+      ]
+    },
+    {
+      "name": "치킨 토마토 스낵랩",
+      "price": {
+        "단품": 2900
+      },
+      "introduce": "치킨에 싱그러운 토마토와 스파이시 어니언 소스가 만나\n특별해진 치킨 토마토 스낵랩",
+      "image": "./images/menu/side/치킨 토마토 스낵랩.png",
+      "nutrition": {
+        "weight": 142,
+        "calories": 264,
+        "sugar": {
+          "vaule": 6,
+          "daily value": 6
+        },
+        "protein": {
+          "vaule": 10,
+          "daily value": 18
+        },
+        "saturated fat": {
+          "vaule": 3,
+          "daily value": 20
+        },
+        "sodium": {
+          "vaule": 749,
+          "daily value": 37
+        }
+      },
+      "allergen" : [ 
+        "난류", "우유", "대두", "밀", "닭고기", "쇠고기", "굴"
+      ],
+      "origin": [
+        "닭고기:국내산"
+      ]
+    }
+  ],
+  "beverage": [
+    {
+      "name": "우유",
+      "price": {
+        "단품": 1500
+      },
+      "introduce": "매일유업의 신선한 우유!",
+      "image": "./images/menu/beverage/우유.png",
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "생수",
+      "price": {
+        "단품": 1200
+      },
+      "introduce": "활력을 되찾아주는 깔끔한 미네랄 생수.",
+      "image": "./images/menu/beverage/생수.png"
+    },
+    {
+      "name": "환타",
+      "price": {
+        "미디움": 1300,
+        "라지": 1800
+      },
+      "introduce": "톡 쏘는 오렌지 향!",
+      "image": "./images/menu/beverage/환타.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 425,
+          "calories": 62,
+          "sugar": {
+            "vaule": 16,
+            "daily value": 16
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 16,
+            "daily value": 1
+          }
+        },
+        "라지": {
+          "weight": 610,
+          "calories": 86,
+          "sugar": {
+            "vaule": 22,
+            "daily value": 22
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 22,
+            "daily value": 1
+          }
+        }
+      }
+    },
+    {
+      "name": "스프라이트",
+      "price": {
+        "미디움": 1300,
+        "라지": 1800
+      },
+      "introduce": "청량함에 레몬, 라임향을 더한 시원함!",
+      "image": "./images/menu/beverage/스프라이트.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 425,
+          "calories": 149,
+          "sugar": {
+            "vaule": 37,
+            "daily value": 37
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 29,
+            "daily value": 1
+          }
+        },
+        "라지": {
+          "weight": 610,
+          "calories": 206,
+          "sugar": {
+            "vaule": 52,
+            "daily value": 52
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 41,
+            "daily value": 2
+          }
+        }
+      }
+    },
+    {
+      "name": "코카-콜라 제로",
+      "price": {
+        "미디움": 1300,
+        "라지": 1800
+      },
+      "introduce": "상쾌한 맛은 살리면서 웰빙 트렌드에 맞춰\n설탕과 칼로리를 제로로 줄인 코카-콜라 제로",
+      "image": "./images/menu/beverage/코카-콜라 제로.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 425,
+          "calories": 0,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 40,
+            "daily value": 2
+          }
+        },
+        "라지": {
+          "weight": 610,
+          "calories": 0,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 56,
+            "daily value": 3
+          }
+        }
+      }
+    },
+    {
+      "name": "코카-콜라",
+      "price": {
+        "미디움": 1300,
+        "라지": 1800
+      },
+      "introduce": "갈증해소 뿐만이 아니라 기분까지 상쾌하게! 코카-콜라",
+      "image": "./images/menu/beverage/코카-콜라.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 425,
+          "calories": 143,
+          "sugar": {
+            "vaule": 34,
+            "daily value": 34
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 19,
+            "daily value": 1
+          }
+        },
+        "라지": {
+          "weight": 610,
+          "calories": 198,
+          "sugar": {
+            "vaule": 47,
+            "daily value": 47
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 26,
+            "daily value": 1
+          }
+        }
+      }
+    },
+    {
+      "name": "오렌지 주스",
+      "price": {
+        "단품": 1800
+      },
+      "introduce": "비타민 C를 함유한 4년 연속 세계 판매 1위 100% 오렌지 주스.",
+      "image": "./images/menu/beverage/오렌지 주스.png"
+    },
+    {
+      "name": "초코 쉐이크",
+      "price": {
+        "미디움": 2500
+      },
+      "introduce": "신선한 우유에 달콤함 초코렛 시럽이 들어간\n부드러운 쉐이크!",
+      "image": "./images/menu/beverage/초코 쉐이크.png",
+      "nutrition": {
+        "weight": 425,
+        "calories": 344,
+        "sugar": {
+          "vaule": 52,
+          "daily value": 52
+        },
+        "protein": {
+          "vaule": 9,
+          "daily value": 16
+        },
+        "saturated fat": {
+          "vaule": 6,
+          "daily value": 40
+        },
+        "sodium": {
+          "vaule": 211,
+          "daily value": 11
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "딸기 쉐이크",
+      "price": {
+        "미디움": 2500
+      },
+      "introduce": "신선한 우유에 상큼한 딸기 시럽으로 맛을 더한\n부드러운 쉐이크!",
+      "image": "./images/menu/beverage/딸기 쉐이크.png",
+      "nutrition": {
+        "weight": 425,
+        "calories": 350,
+        "sugar": {
+          "vaule": 53,
+          "daily value": 53
+        },
+        "protein": {
+          "vaule": 8,
+          "daily value": 15
+        },
+        "saturated fat": {
+          "vaule": 6,
+          "daily value": 39
+        },
+        "sodium": {
+          "vaule": 138,
+          "daily value": 7
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "바닐라 쉐이크",
+      "price": {
+        "미디움": 2500
+      },
+      "introduce": "신선한 우유에 달콤한 바닐라 시럽으로 맛을 더한\n깔끔한 쉐이크!",
+      "image": "./images/menu/beverage/바닐라 쉐이크.png",
+      "nutrition": {
+        "weight": 425,
+        "calories": 344,
+        "sugar": {
+          "vaule": 49,
+          "daily value": 49
+        },
+        "protein": {
+          "vaule": 8,
+          "daily value": 15
+        },
+        "saturated fat": {
+          "vaule": 6,
+          "daily value": 39
+        },
+        "sodium": {
+          "vaule": 157,
+          "daily value": 8
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "레몬 맥피즈 스프라이트",
+      "price": {
+        "미디움": 1900,
+        "라지": 2400
+      },
+      "introduce": "레몬과 탄산의 두 번 톡 쏘는 행복함\n해피스낵 레몬 맥피즈 코카-콜라로 일상 속 확실한 행복을 즐겨요",
+      "image": "./images/menu/beverage/레몬 맥피즈 스프라이트.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 425,
+          "calories": 220,
+          "sugar": {
+            "vaule": 53,
+            "daily value": 53
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 21,
+            "daily value": 1
+          }
+        },
+        "라지": {
+          "weight": 610,
+          "calories": 321,
+          "sugar": {
+            "vaule": 77,
+            "daily value": 77
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 29,
+            "daily value": 1
+          }
+        }
+      }
+    },
+    {
+      "name": "레몬 맥피즈 코카-콜라 제로",
+      "price": {
+        "미디움": 1900,
+        "라지": 2400
+      },
+      "introduce": "레몬과 탄산의 두 번 톡 쏘는 행복함\n해피스낵 레몬 맥피즈 코카-콜라로 일상 속 확실한 행복을 즐겨요",
+      "image": "./images/menu/beverage/레몬 맥피즈 코카-콜라 제로.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 425,
+          "calories": 115,
+          "sugar": {
+            "vaule": 26,
+            "daily value": 26
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 29,
+            "daily value": 1
+          }
+        },
+        "라지": {
+          "weight": 610,
+          "calories": 172,
+          "sugar": {
+            "vaule": 40,
+            "daily value": 40
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 40,
+            "daily value": 2
+          }
+        }
+      }
+    },
+    {
+      "name": "레몬 맥피즈 코카-콜라",
+      "price": {
+        "미디움": 1900,
+        "라지": 2400
+      },
+      "introduce": "레몬과 탄산의 두 번 톡 쏘는 행복함\n해피스낵 레몬 맥피즈 코카-콜라로 일상 속 확실한 행복을 즐겨요",
+      "image": "./images/menu/beverage/레몬 맥피즈 코카-콜라.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 425,
+          "calories": 218,
+          "sugar": {
+            "vaule": 51,
+            "daily value": 51
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 13,
+            "daily value": 1
+          }
+        },
+        "라지": {
+          "weight": 610,
+          "calories": 314,
+          "sugar": {
+            "vaule": 74,
+            "daily value": 74
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 19,
+            "daily value": 1
+          }
+        }
+      }
+    }
+  ],
+  "coffee": [
+    {
+      "name": "디카페인 아이스크림 라떼",
+      "price": {
+        "미디움": 1300
+      },
+      "introduce": "입안 가득 달콤한 아이스크림과 바로 내린 100% 친환경 커피 & 신선한 우유를 담은 진한 라떼의 만남! 이제 디카페인으로도 즐겨보세요!",
+      "image": "./images/menu/coffee/디카페인 아이스크림 라떼.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 484,
+          "calories": 244,
+          "sugar": {
+            "vaule": 24,
+            "daily value": 24
+          },
+          "protein": {
+            "vaule": 9,
+            "daily value": 9
+          },
+          "saturated fat": {
+            "vaule": 6.2,
+            "daily value": 42
+          },
+          "sodium": {
+            "vaule": 119,
+            "daily value": 6
+          },
+          "caffeine": {
+            "value": 4.80
+          }
+        }
+      }
+    },
+    {
+      "name": "아이스크림 라떼",
+      "price": {
+        "미디움": 1300
+      },
+      "introduce": "입안 가득 달콤한 아이스크림과 바로 내린 100% 친환경 커피 & 신선한 우유를 담은 진한 라떼의 만남!",
+      "image": "./images/menu/coffee/아이스크림 라떼.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 484,
+          "calories": 239,
+          "sugar": {
+            "vaule": 24,
+            "daily value": 24
+          },
+          "protein": {
+            "vaule": 8,
+            "daily value": 8
+          },
+          "saturated fat": {
+            "vaule": 6.2,
+            "daily value": 42
+          },
+          "sodium": {
+            "vaule": 116,
+            "daily value": 6
+          },
+          "caffeine": {
+            "value": 131.6
+          }
+        }
+      }
+    },
+    {
+      "name": "디카페인 아이스 바닐라 라떼",
+      "price": {
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피의 진한 맛과 향,\n1A등급 우유, 그리고 천연 바닐라 향으로 달콤함까지!\n이제 디카페인으로도 즐겨보세요!",
+      "image": "./images/menu/coffee/디카페인 아이스 바닐라 라떼.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 400,
+          "calories": 191,
+          "sugar": {
+            "vaule": 26,
+            "daily value": 26
+          },
+          "protein": {
+            "vaule": 6,
+            "daily value": 10
+          },
+          "saturated fat": {
+            "vaule": 3.2,
+            "daily value": 22
+          },
+          "sodium": {
+            "vaule": 54,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 5
+          }
+        },
+        "라지": {
+          "weight": 600,
+          "calories": 263,
+          "sugar": {
+            "vaule": 39,
+            "daily value": 39
+          },
+          "protein": {
+            "vaule": 7,
+            "daily value": 13
+          },
+          "saturated fat": {
+            "vaule": 3.9,
+            "daily value": 26
+          },
+          "sodium": {
+            "vaule": 65,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 5
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "디카페인 바닐라 라떼",
+      "price": {
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피의 진한 맛과 향,\n1A등급 우유, 그리고 천연 바닐라 향으로 달콤함까지!\n이제 디카페인으로도 즐겨보세요!",
+      "image": "./images/menu/coffee/디카페인 바닐라 라떼.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 365,
+          "calories": 227,
+          "sugar": {
+            "vaule": 29,
+            "daily value": 29
+          },
+          "protein": {
+            "vaule": 8,
+            "daily value": 14
+          },
+          "saturated fat": {
+            "vaule": 4,
+            "daily value": 30
+          },
+          "sodium": {
+            "vaule": 85,
+            "daily value": 4
+          },
+          "caffeine": {
+            "value": 4
+          }
+        },
+        "라지": {
+          "weight": 460,
+          "calories": 319,
+          "sugar": {
+            "vaule": 43,
+            "daily value": 43
+          },
+          "protein": {
+            "vaule": 10,
+            "daily value": 19
+          },
+          "saturated fat": {
+            "vaule": 6,
+            "daily value": 38
+          },
+          "sodium": {
+            "vaule": 107,
+            "daily value": 5
+          },
+          "caffeine": {
+            "value": 5
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "제주 한라봉 칠러",
+      "price": {
+        "스몰": 1000,
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "제주 한라봉의 상큼새콤한 맛과 향을 즐겨보세요!",
+      "image": "./images/menu/coffee/제주 한라봉 칠러.png",
+      "nutrition": {
+        "스몰": {
+          "weight": 256,
+          "calories": 165,
+          "sugar": {
+            "vaule": 28,
+            "daily value": 28
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 34,
+            "daily value": 2
+          }
+        },
+        "미디움": {
+          "weight": 400,
+          "calories": 236,
+          "sugar": {
+            "vaule": 40,
+            "daily value": 40
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 48,
+            "daily value": 2
+          }
+        },
+        "라지": {
+          "weight": 600,
+          "calories": 365,
+          "sugar": {
+            "vaule": 61,
+            "daily value": 61
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 2
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 1
+          },
+          "sodium": {
+            "vaule": 74,
+            "daily value": 4
+          }
+        }
+      }
+    },
+    {
+      "name": "바닐라 라떼",
+      "price": {
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피의 진한 맛과 향,\n1A등급 우유, 그리고 천연 바닐라 향으로 달콤함까지!",
+      "image": "./images/menu/coffee/바닐라 라떼.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 365,
+          "calories": 227,
+          "sugar": {
+            "vaule": 28,
+            "daily value": 28
+          },
+          "protein": {
+            "vaule": 8,
+            "daily value": 14
+          },
+          "saturated fat": {
+            "vaule": 5,
+            "daily value": 30
+          },
+          "sodium": {
+            "vaule": 79,
+            "daily value": 4
+          },
+          "caffeine": {
+            "value": 131
+          }
+        },
+        "라지": {
+          "weight": 460,
+          "calories": 323,
+          "sugar": {
+            "vaule": 45,
+            "daily value": 45
+          },
+          "protein": {
+            "vaule": 10,
+            "daily value": 18
+          },
+          "saturated fat": {
+            "vaule": 6,
+            "daily value": 40
+          },
+          "sodium": {
+            "vaule": 105,
+            "daily value": 5
+          },
+          "caffeine": {
+            "value": 148
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "아이스 바닐라 라떼",
+      "price": {
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피의 진한 맛과 향,\n1A등급 우유, 그리고 천연 바닐라 향으로 달콤함까지!",
+      "image": "./images/menu/coffee/아이스 바닐라 라떼.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 400,
+          "calories": 186,
+          "sugar": {
+            "vaule": 25,
+            "daily value": 25
+          },
+          "protein": {
+            "vaule": 6,
+            "daily value": 10
+          },
+          "saturated fat": {
+            "vaule": 3.2,
+            "daily value": 22
+          },
+          "sodium": {
+            "vaule": 50,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 132
+          }
+        },
+        "라지": {
+          "weight": 600,
+          "calories": 263,
+          "sugar": {
+            "vaule": 39,
+            "daily value": 39
+          },
+          "protein": {
+            "vaule": 6,
+            "daily value": 11
+          },
+          "saturated fat": {
+            "vaule": 3.9,
+            "daily value": 26
+          },
+          "sodium": {
+            "vaule": 63,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 136
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "자두 칠러",
+      "price": {
+        "스몰": 1000,
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "자두의 진한 달콤함이\n얼음을 만나 더욱 시원한 여름 음료, 자두 칠러!",
+      "image": "./images/menu/coffee/자두 칠러.png",
+      "nutrition": {
+        "스몰": {
+          "weight": 256,
+          "calories": 143,
+          "sugar": {
+            "vaule": 23,
+            "daily value": 23
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 39,
+            "daily value": 2
+          }
+        },
+        "미디움": {
+          "weight": 400,
+          "calories": 198,
+          "sugar": {
+            "vaule": 31,
+            "daily value": 31
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 1
+          },
+          "sodium": {
+            "vaule": 54,
+            "daily value": 3
+          }
+        },
+        "라지": {
+          "weight": 600,
+          "calories": 292,
+          "sugar": {
+            "vaule": 46,
+            "daily value": 46
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 1
+          },
+          "sodium": {
+            "vaule": 80,
+            "daily value": 4
+          }
+        }
+      }
+    },
+    {
+      "name": "카페라떼",
+      "price": {
+        "스몰": 1000,
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피가 신선한 우유를 만나\n더 신선하고 부드럽게!",
+      "image": "./images/menu/coffee/카페라떼.png",
+      "nutrition": {
+        "스몰": {
+          "weight": 250,
+          "calories": 103,
+          "sugar": {
+            "vaule": 7,
+            "daily value": 7
+          },
+          "protein": {
+            "vaule": 5,
+            "daily value": 10
+          },
+          "saturated fat": {
+            "vaule": 3.4,
+            "daily value": 23
+          },
+          "sodium": {
+            "vaule": 56,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 85
+          }
+        },
+        "미디움": {
+          "weight": 365,
+          "calories": 149,
+          "sugar": {
+            "vaule": 8,
+            "daily value": 14
+          },
+          "protein": {
+            "vaule": 5,
+            "daily value": 14
+          },
+          "saturated fat": {
+            "vaule": 5,
+            "daily value": 30
+          },
+          "sodium": {
+            "vaule": 79,
+            "daily value": 4
+          },
+          "caffeine": {
+            "value": 131
+          }
+        },
+        "라지": {
+          "weight": 460,
+          "calories": 194,
+          "sugar": {
+            "vaule": 14,
+            "daily value": 14
+          },
+          "protein": {
+            "vaule": 10,
+            "daily value": 18
+          },
+          "saturated fat": {
+            "vaule": 6,
+            "daily value": 40
+          },
+          "sodium": {
+            "vaule": 105,
+            "daily value": 5
+          },
+          "caffeine": {
+            "value": 148
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "디카페인 카페라떼",
+      "price": {
+        "스몰": 1000,
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피가 신선한 우유를 만나\n더 신선하고 부드럽게!",
+      "image": "./images/menu/coffee/디카페인 카페라떼.png",
+      "nutrition": {
+        "스몰": {
+          "weight": 250,
+          "calories": 104,
+          "sugar": {
+            "vaule": 7,
+            "daily value": 7
+          },
+          "protein": {
+            "vaule": 5,
+            "daily value": 10
+          },
+          "saturated fat": {
+            "vaule": 3.0,
+            "daily value": 20
+          },
+          "sodium": {
+            "vaule": 58,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 3
+          }
+        },
+        "미디움": {
+          "weight": 365,
+          "calories": 150,
+          "sugar": {
+            "vaule": 10,
+            "daily value": 10
+          },
+          "protein": {
+            "vaule": 7,
+            "daily value": 14
+          },
+          "saturated fat": {
+            "vaule": 4.4,
+            "daily value": 30
+          },
+          "sodium": {
+            "vaule": 85,
+            "daily value": 4
+          },
+          "caffeine": {
+            "value": 4
+          }
+        },
+        "라지": {
+          "weight": 460,
+          "calories": 190,
+          "sugar": {
+            "vaule": 13,
+            "daily value": 13
+          },
+          "protein": {
+            "vaule": 10,
+            "daily value": 19
+          },
+          "saturated fat": {
+            "vaule": 57,
+            "daily value": 38
+          },
+          "sodium": {
+            "vaule": 107,
+            "daily value": 5
+          },
+          "caffeine": {
+            "value": 5
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "아이스 카페라떼",
+      "price": {
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피가 신선한 우유를 만나,\n더 신선하고 부드럽게!",
+      "image": "./images/menu/coffee/아이스 카페라떼.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 400,
+          "calories": 108,
+          "sugar": {
+            "vaule": 7,
+            "daily value": 7
+          },
+          "protein": {
+            "vaule": 5,
+            "daily value": 10
+          },
+          "saturated fat": {
+            "vaule": 3.2,
+            "daily value": 22
+          },
+          "sodium": {
+            "vaule": 50,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 132
+          }
+        },
+        "라지": {
+          "weight": 600,
+          "calories": 133,
+          "sugar": {
+            "vaule": 8,
+            "daily value": 8
+          },
+          "protein": {
+            "vaule": 6,
+            "daily value": 11
+          },
+          "saturated fat": {
+            "vaule": 3.9,
+            "daily value": 26
+          },
+          "sodium": {
+            "vaule": 63,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 136
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "디카페인 아이스 카페라떼",
+      "price": {
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피가 신선한 우유를 만나,\n더 신선하고 부드럽게!",
+      "image": "./images/menu/coffee/디카페인 아이스 카페라떼.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 400,
+          "calories": 114,
+          "sugar": {
+            "vaule": 7,
+            "daily value": 7
+          },
+          "protein": {
+            "vaule": 5,
+            "daily value": 10
+          },
+          "saturated fat": {
+            "vaule": 3.2,
+            "daily value": 22
+          },
+          "sodium": {
+            "vaule": 54,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 5
+          }
+        },
+        "라지": {
+          "weight": 600,
+          "calories": 133,
+          "sugar": {
+            "vaule": 8,
+            "daily value": 8
+          },
+          "protein": {
+            "vaule": 7,
+            "daily value": 13
+          },
+          "saturated fat": {
+            "vaule": 3.9,
+            "daily value": 26
+          },
+          "sodium": {
+            "vaule": 65,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 5
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": {
+        "스몰": 1000,
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피로\n더 신선하게! 더 풍부하게!",
+      "image": "./images/menu/coffee/아메리카노.png",
+      "nutrition": {
+        "스몰": {
+          "weight": 250,
+          "calories": 11,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 2
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 156
+          }
+        },
+        "미디움": {
+          "weight": 365,
+          "calories": 12,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 2
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 192
+          }
+        },
+        "라지": {
+          "weight": 460,
+          "calories": 15,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 2
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 214
+          }
+        }
+      }
+    },
+    {
+      "name": "디카페인 아메리카노",
+      "price": {
+        "스몰": 1000,
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피로\n더 신선하게! 더 풍부하게!",
+      "image": "./images/menu/coffee/디카페인 아메리카노.png",
+      "nutrition": {
+        "스몰": {
+          "weight": 250,
+          "calories": 8,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 4
+          }
+        },
+        "미디움": {
+          "weight": 365,
+          "calories": 12,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 2
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 6
+          }
+        },
+        "라지": {
+          "weight": 460,
+          "calories": 1,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 2
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 4,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 6
+          }
+        }
+      }
+    },
+    {
+      "name": "아이스 아메리카노",
+      "price": {
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피로\n더 신선하게! 더 풍부하게!",
+      "image": "./images/menu/coffee/아이스 아메리카노.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 400,
+          "calories": 9,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 2
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 119
+          }
+        },
+        "라지": {
+          "weight": 600,
+          "calories": 10,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 144
+          }
+        }
+      }
+    },
+    {
+      "name": "디카페인 아이스 아메리카노",
+      "price": {
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피로\n더 신선하게! 더 풍부하게!",
+      "image": "./images/menu/coffee/디카페인 아이스 아메리카노.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 400,
+          "calories": 8,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 4
+          }
+        },
+        "라지": {
+          "weight": 600,
+          "calories": 10,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 5
+          }
+        }
+      }
+    },
+    {
+      "name": "카푸치노",
+      "price": {
+        "스몰": 1000,
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피로 추출한 에스프레소\n위에 갓 만든 우유 거품으로 더 부드럽게!",
+      "image": "./images/menu/coffee/카푸치노.png",
+      "nutrition": {
+        "스몰": {
+          "weight": 250,
+          "calories": 68,
+          "sugar": {
+            "vaule": 4,
+            "daily value": 4
+          },
+          "protein": {
+            "vaule": 4,
+            "daily value": 7
+          },
+          "saturated fat": {
+            "vaule": 2.0,
+            "daily value": 13
+          },
+          "sodium": {
+            "vaule": 34,
+            "daily value": 2
+          },
+          "caffeine": {
+            "value": 94
+          }
+        },
+        "미디움": {
+          "weight": 365,
+          "calories": 93,
+          "sugar": {
+            "vaule": 6,
+            "daily value": 6
+          },
+          "protein": {
+            "vaule": 5,
+            "daily value": 8
+          },
+          "saturated fat": {
+            "vaule": 2.9,
+            "daily value": 19
+          },
+          "sodium": {
+            "vaule": 49,
+            "daily value": 2
+          },
+          "caffeine": {
+            "value": 123
+          }
+        },
+        "라지": {
+          "weight": 460,
+          "calories": 120,
+          "sugar": {
+            "vaule": 8,
+            "daily value": 8
+          },
+          "protein": {
+            "vaule": 7,
+            "daily value": 13
+          },
+          "saturated fat": {
+            "vaule": 4,
+            "daily value": 24
+          },
+          "sodium": {
+            "vaule": 62,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 142
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "디카페인 카푸치노",
+      "price": {
+        "스몰": 1000,
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "바로 내린 100% 친환경 커피로 추출한 에스프레소\n위에 갓 만든 우유 거품으로 더 부드럽게!",
+      "image": "./images/menu/coffee/디카페인 카푸치노.png",
+      "nutrition": {
+        "스몰": {
+          "weight": 250,
+          "calories": 67,
+          "sugar": {
+            "vaule": 4,
+            "daily value": 4
+          },
+          "protein": {
+            "vaule": 4,
+            "daily value": 6
+          },
+          "saturated fat": {
+            "vaule": 1.9,
+            "daily value": 13
+          },
+          "sodium": {
+            "vaule": 36,
+            "daily value": 2
+          },
+          "caffeine": {
+            "value": 3
+          }
+        },
+        "미디움": {
+          "weight": 365,
+          "calories": 89,
+          "sugar": {
+            "vaule": 6,
+            "daily value": 6
+          },
+          "protein": {
+            "vaule": 5,
+            "daily value": 8
+          },
+          "saturated fat": {
+            "vaule": 2.5,
+            "daily value": 17
+          },
+          "sodium": {
+            "vaule": 49,
+            "daily value": 2
+          },
+          "caffeine": {
+            "value": 4
+          }
+        },
+        "라지": {
+          "weight": 460,
+          "calories": 120,
+          "sugar": {
+            "vaule": 7,
+            "daily value": 7
+          },
+          "protein": {
+            "vaule": 6,
+            "daily value": 11
+          },
+          "saturated fat": {
+            "vaule": 3.5,
+            "daily value": 23
+          },
+          "sodium": {
+            "vaule": 65,
+            "daily value": 3
+          },
+          "caffeine": {
+            "value": 5
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "에스프레소",
+      "price": {
+        "미디움": 1300
+      },
+      "introduce": "바로 내린 100% 친환경 에스프레소",
+      "image": "./images/menu/coffee/에스프레소.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 55,
+          "calories": 8,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 118
+          }
+        }
+      }
+    },
+    {
+      "name": "디카페인 에스프레소",
+      "price": {
+        "미디움": 1300
+      },
+      "introduce": "바로 내린 100% 친환경 에스프레소",
+      "image": "./images/menu/coffee/디카페인 에스프레소.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 55,
+          "calories": 8,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 0,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 4
+          }
+        }
+      }
+    },
+    {
+      "name": "드립 커피",
+      "price": {
+        "스몰": 1000,
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "100% 아라비카 원두를 드립 커피의 부드러움으로 만나보세요.",
+      "image": "./images/menu/coffee/드립 커피.png",
+      "nutrition": {
+        "스몰": {
+          "weight": 250,
+          "calories": 7,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 112
+          }
+        },
+        "미디움": {
+          "weight": 365,
+          "calories": 10,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 163
+          }
+        },
+        "라지": {
+          "weight": 460,
+          "calories": 12,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 2
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 206
+          }
+        }
+      },
+      "allergen": [
+        "우유"
+      ]
+    },
+    {
+      "name": "아이스 드립 커피",
+      "price": {
+        "미디움": 1300,
+        "라지": 2500
+      },
+      "introduce": "100% 아라비카 커피로 풍부한 아로마의 드립 커피를\n시원하게 만나보세요!",
+      "image": "./images/menu/coffee/아이스 드립 커피.png",
+      "nutrition": {
+        "미디움": {
+          "weight": 400,
+          "calories": 10,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 1
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 168
+          }
+        },
+        "라지": {
+          "weight": 600,
+          "calories": 14,
+          "sugar": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "protein": {
+            "vaule": 1,
+            "daily value": 2
+          },
+          "saturated fat": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "sodium": {
+            "vaule": 0,
+            "daily value": 0
+          },
+          "caffeine": {
+            "value": 249
+          }
+        }
+      }
+    }
+  ]
+}

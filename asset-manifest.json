@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kiosk/static/css/main.576a69e8.css",
+    "main.js": "/kiosk/static/js/main.f260c5cf.js",
+    "index.html": "/kiosk/index.html",
+    "main.576a69e8.css.map": "/kiosk/static/css/main.576a69e8.css.map",
+    "main.f260c5cf.js.map": "/kiosk/static/js/main.f260c5cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.576a69e8.css",
+    "static/js/main.f260c5cf.js"
+  ]
+}

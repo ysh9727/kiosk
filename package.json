@@ -1,7 +1,6 @@
 {
   "name": "kiosk",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://ysh9727.github.io/kiosk",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
